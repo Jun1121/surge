@@ -1,4 +1,5 @@
 #!name=Apple 翻译
 #!desc=解决Apple翻译不可用
+
 [General]
 skip-proxy = seed-sequoia.siri.apple.com,sequoia.apple.com
