@@ -1,6 +1,4 @@
-#!name=Antigravity
-#!desc=强制 language_server_macos_arm 进程走代理
-#!system=mac
+[General]
 
 [Rule]
 PROCESS-NAME,language_server_macos_arm,PROXY
