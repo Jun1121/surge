@@ -1,4 +1,4 @@
 [General]
 
 [Rule]
-PROCESS-NAME,language_server_macos_arm,antigravity
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,REJECT
