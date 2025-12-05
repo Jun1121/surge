@@ -2,7 +2,7 @@
 *
 
 # 追踪所有 .conf 文件
-!*.conf
+!*.sgmodule
 
 # 追踪 .gitignore 文件
 !.gitignore
