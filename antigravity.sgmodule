@@ -1,4 +1,6 @@
-[General]
+#!name=Apple 翻译
+#!desc=解决Apple翻译不可用
+#!system=mac
 
-[Rule]
+[General]
 PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,REJECT
